@@ -33,3 +33,5 @@ C:\Users\lucas\source\repos\Trabalho_POO\Trabalho_POO\bin\Debug\net8.0-windows\r
 C:\Users\lucas\source\repos\Trabalho_POO\Trabalho_POO\obj\Debug\net8.0-windows\Trabalho_POO.csproj.AssemblyReference.cache
 C:\Users\lucas\source\repos\Trabalho_POO\Trabalho_POO\obj\Debug\net8.0-windows\Trabalho_POO.Painel.resources
 C:\Users\lucas\source\repos\Trabalho_POO\Trabalho_POO\obj\Debug\net8.0-windows\Trabalho.87D807AC.Up2Date
+C:\Users\lucas\source\repos\Trabalho_POO\Trabalho_POO\obj\Debug\net8.0-windows\Trabalho_POO.Edicao.resources
+C:\Users\lucas\source\repos\Trabalho_POO\Trabalho_POO\obj\Debug\net8.0-windows\Trabalho_POO.sourcelink.json

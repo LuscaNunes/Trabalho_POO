@@ -40,11 +40,12 @@
             textReErrada4 = new TextBox();
             textReErrada3 = new TextBox();
             btnPainel = new Button();
+            btnEdicao = new Button();
             SuspendLayout();
             // 
             // btnSalvar_Click
             // 
-            btnSalvar_Click.Location = new Point(682, 113);
+            btnSalvar_Click.Location = new Point(662, 89);
             btnSalvar_Click.Name = "btnSalvar_Click";
             btnSalvar_Click.Size = new Size(94, 29);
             btnSalvar_Click.TabIndex = 0;
@@ -64,7 +65,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(64, 116);
+            label2.Location = new Point(16, 92);
             label2.Name = "label2";
             label2.Size = new Size(70, 20);
             label2.TabIndex = 2;
@@ -73,7 +74,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(64, 188);
+            label3.Location = new Point(16, 164);
             label3.Name = "label3";
             label3.Size = new Size(125, 20);
             label3.TabIndex = 3;
@@ -82,7 +83,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(64, 239);
+            label4.Location = new Point(16, 215);
             label4.Name = "label4";
             label4.Size = new Size(125, 20);
             label4.TabIndex = 4;
@@ -90,7 +91,7 @@
             // 
             // textPergunta
             // 
-            textPergunta.Location = new Point(140, 113);
+            textPergunta.Location = new Point(92, 89);
             textPergunta.Name = "textPergunta";
             textPergunta.Size = new Size(472, 27);
             textPergunta.TabIndex = 5;
@@ -98,7 +99,7 @@
             // 
             // textResCorreta
             // 
-            textResCorreta.Location = new Point(195, 185);
+            textResCorreta.Location = new Point(147, 161);
             textResCorreta.Name = "textResCorreta";
             textResCorreta.Size = new Size(472, 27);
             textResCorreta.TabIndex = 6;
@@ -106,7 +107,7 @@
             // 
             // textReErrada1
             // 
-            textReErrada1.Location = new Point(195, 239);
+            textReErrada1.Location = new Point(147, 215);
             textReErrada1.Name = "textReErrada1";
             textReErrada1.Size = new Size(472, 27);
             textReErrada1.TabIndex = 7;
@@ -114,7 +115,7 @@
             // 
             // textReErrada2
             // 
-            textReErrada2.Location = new Point(195, 281);
+            textReErrada2.Location = new Point(147, 257);
             textReErrada2.Name = "textReErrada2";
             textReErrada2.Size = new Size(472, 27);
             textReErrada2.TabIndex = 8;
@@ -122,7 +123,7 @@
             // 
             // textReErrada4
             // 
-            textReErrada4.Location = new Point(195, 370);
+            textReErrada4.Location = new Point(147, 346);
             textReErrada4.Name = "textReErrada4";
             textReErrada4.Size = new Size(472, 27);
             textReErrada4.TabIndex = 10;
@@ -130,7 +131,7 @@
             // 
             // textReErrada3
             // 
-            textReErrada3.Location = new Point(195, 328);
+            textReErrada3.Location = new Point(147, 304);
             textReErrada3.Name = "textReErrada3";
             textReErrada3.Size = new Size(472, 27);
             textReErrada3.TabIndex = 9;
@@ -138,19 +139,30 @@
             // 
             // btnPainel
             // 
-            btnPainel.Location = new Point(626, 35);
+            btnPainel.Location = new Point(634, 155);
             btnPainel.Name = "btnPainel";
             btnPainel.Size = new Size(154, 29);
             btnPainel.TabIndex = 11;
-            btnPainel.Text = "Ir para Painel";
+            btnPainel.Text = "Ir para Pesquisa";
             btnPainel.UseVisualStyleBackColor = true;
             btnPainel.Click += btnPainel_Click;
+            // 
+            // btnEdicao
+            // 
+            btnEdicao.Location = new Point(634, 190);
+            btnEdicao.Name = "btnEdicao";
+            btnEdicao.Size = new Size(154, 29);
+            btnEdicao.TabIndex = 13;
+            btnEdicao.Text = "Ir para Edição";
+            btnEdicao.UseVisualStyleBackColor = true;
+            btnEdicao.Click += btnEdicao_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnEdicao);
             Controls.Add(btnPainel);
             Controls.Add(textReErrada4);
             Controls.Add(textReErrada3);
@@ -184,5 +196,6 @@
         private TextBox textReErrada4;
         private TextBox textReErrada3;
         private Button btnPainel;
+        private Button btnEdicao;
     }
 }

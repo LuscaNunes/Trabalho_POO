@@ -10,3 +10,5 @@ CREATE TABLE Perguntas (
     RespostaErrada3 TEXT NOT NULL,
     RespostaErrada4 TEXT NOT NULL
 );
+
+select*from Perguntas;

@@ -76,17 +76,17 @@ namespace Trabalho_POO
             catch (Exception ex)
             {
                 MessageBox.Show($"Erro: {ex.Message}", "Falha", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            } 
-        }
-            private void LimparCampos()
-            {
-                textPergunta.Clear();
-                textResCorreta.Clear();
-                textReErrada1.Clear();
-                textReErrada2.Clear();
-                textReErrada3.Clear();
-                textReErrada4.Clear();
             }
+        }
+        private void LimparCampos()
+        {
+            textPergunta.Clear();
+            textResCorreta.Clear();
+            textReErrada1.Clear();
+            textReErrada2.Clear();
+            textReErrada3.Clear();
+            textReErrada4.Clear();
+        }
 
         private void btnPainel_Click(object sender, EventArgs e)
         {
@@ -128,6 +128,13 @@ namespace Trabalho_POO
         private void textReErrada4_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnEdicao_Click(object sender, EventArgs e)
+        {
+            Edicao edicao = new Edicao();
+            this.Hide();
+            edicao.Show();
         }
     }
 }

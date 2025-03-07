@@ -96,6 +96,13 @@ namespace Trabalho_POO
             txtRespostaErrada3.Clear();
             txtRespostaErrada4.Clear();
         }
+
+        private void btnForm1_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            this.Hide();
+            form1.Show();
+        }
     }
-    
+
 }

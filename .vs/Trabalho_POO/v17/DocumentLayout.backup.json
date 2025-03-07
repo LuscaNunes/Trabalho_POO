@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\lucas\\source\\repos\\trabalho_poo\\trabalho_poo\\edicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\edicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\lucas\\source\\repos\\trabalho_poo\\trabalho_poo\\edicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\edicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\lucas\\source\\repos\\trabalho_poo\\trabalho_poo\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\lucas\\source\\repos\\trabalho_poo\\trabalho_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\lucas\\source\\repos\\trabalho_poo\\trabalho_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\lucas\\source\\repos\\trabalho_poo\\trabalho_poo\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\lucas\\source\\repos\\trabalho_poo\\trabalho_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\lucas\\source\\repos\\trabalho_poo\\trabalho_poo\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\lucas\\source\\repos\\trabalho_poo\\trabalho_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\lucas\\source\\repos\\trabalho_poo\\trabalho_poo\\modelos\\pergunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80433EC-547B-40C0-B206-24172919540E}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\modelos\\pergunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edicao.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Edicao.cs",
-              "RelativeDocumentMoniker": "Trabalho_POO\\Edicao.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Edicao.cs [Projeto]",
-              "RelativeToolTip": "Trabalho_POO\\Edicao.cs [Projeto]",
+              "DocumentIndex": 5,
+              "Title": "Pergunta.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Modelos\\Pergunta.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO\\Modelos\\Pergunta.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Modelos\\Pergunta.cs",
+              "RelativeToolTip": "Trabalho_POO\\Modelos\\Pergunta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T03:22:21.336Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Painel.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Painel.cs",
-              "RelativeDocumentMoniker": "Trabalho_POO\\Painel.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Painel.cs",
-              "RelativeToolTip": "Trabalho_POO\\Painel.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwFAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T03:17:01.873Z",
+              "WhenOpened": "2025-03-07T00:38:49.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Painel.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Painel.cs",
               "RelativeDocumentMoniker": "Trabalho_POO\\Painel.cs",
               "ToolTip": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Painel.cs [Projeto]",
               "RelativeToolTip": "Trabalho_POO\\Painel.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T03:02:11.425Z",
+              "WhenOpened": "2025-03-07T00:35:32.267Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Form1.cs",
-              "RelativeDocumentMoniker": "Trabalho_POO\\Form1.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Trabalho_POO\\Form1.cs [Projeto]",
+              "Title": "Painel.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Painel.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO\\Painel.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Painel.cs",
+              "RelativeToolTip": "Trabalho_POO\\Painel.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwC0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T14:52:48.44Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-03-07T00:20:27.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Program.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Program.cs",
+              "RelativeToolTip": "Trabalho_POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:19:26.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Form1.cs",
               "RelativeDocumentMoniker": "Trabalho_POO\\Form1.cs",
               "ToolTip": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Form1.cs",
               "RelativeToolTip": "Trabalho_POO\\Form1.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T14:53:39.067Z",
+              "WhenOpened": "2025-03-07T00:19:50.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edicao.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Edicao.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO\\Edicao.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Edicao.cs",
+              "RelativeToolTip": "Trabalho_POO\\Edicao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:24:03.255Z",
               "EditorCaption": ""
             }
           ]

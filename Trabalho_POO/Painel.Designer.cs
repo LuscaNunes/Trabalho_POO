@@ -43,6 +43,7 @@
             txtRespostaErrada4 = new TextBox();
             label2 = new Label();
             label3 = new Label();
+            btnForm1 = new Button();
             SuspendLayout();
             // 
             // btnTestarConexao
@@ -94,7 +95,7 @@
             // 
             txtPergunta.Location = new Point(112, 100);
             txtPergunta.Name = "txtPergunta";
-            txtPergunta.Size = new Size(125, 27);
+            txtPergunta.Size = new Size(474, 27);
             txtPergunta.TabIndex = 5;
             // 
             // lblRespostaCorreta
@@ -168,11 +169,22 @@
             label3.TabIndex = 14;
             label3.Text = "teste conexão";
             // 
+            // btnForm1
+            // 
+            btnForm1.Location = new Point(21, 12);
+            btnForm1.Name = "btnForm1";
+            btnForm1.Size = new Size(94, 29);
+            btnForm1.TabIndex = 15;
+            btnForm1.Text = "Voltar";
+            btnForm1.UseVisualStyleBackColor = true;
+            btnForm1.Click += btnForm1_Click;
+            // 
             // Painel
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnForm1);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(txtRespostaErrada4);
@@ -211,5 +223,6 @@
         private TextBox txtRespostaErrada4;
         private Label label2;
         private Label label3;
+        private Button btnForm1;
     }
 }
